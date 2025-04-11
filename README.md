@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mehedov
+- 👀 I’m interested in frontend development, UX/UI design, and modern web technologies
+- 🌱 I’m currently learning React, TypeScript, and advanced JavaScript patterns
+- 💞️ I’m looking to collaborate on interesting frontend projects and open-source initiatives
+- 📫 How to reach me: mehedov.dev@yandex.ru
+- 😄 Pronouns: He
+- ⚡ Fun fact: I can center a div with my eyes closed!
