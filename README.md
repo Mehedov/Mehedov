@@ -7,7 +7,7 @@
   <a href="https://github.com/Mehedov?tab=followers">
     <img src="https://img.shields.io/github/followers/Mehedov?style=flat&logo=github" alt="GitHub followers" />
   </a>
-  <a href="mailto:mehedov.dev@yandex.ru">
+  <a href="mailto:narofomsk@gmail.com">
     <img src="https://img.shields.io/badge/Email-mehedov.dev%40yandex.ru-blue?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
