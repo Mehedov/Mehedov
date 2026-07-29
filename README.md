@@ -1,5 +1,4 @@
 <h1 align="left" id="mehedov-title">👋 Hello there! I'm Nikolay Mehedov</h1>
-<h3 align="left">Frontend developer building modern web experiences</h3>
 
 <p align="left">
   <a href="https://github.com/Mehedov/Mehedov">
