@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/Mehedov?style=flat&logo=github" alt="GitHub followers" />
   </a>
   <a href="mailto:narofomsk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mehedov.dev%40yandex.ru-blue?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-narofomsk%40gmail.com-blue?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 - 🌱 &nbsp;I’m growing my skills in **React**, **Angular**, **TypeScript**, and **Express**
 - 🤝 &nbsp;I’m open to collaborating on frontend projects and open-source initiatives
 - 💬 &nbsp;Ask me about frontend development, UX/UI, and modern web technologies
-- 📫 &nbsp;Reach me at **[mehedov.dev@yandex.ru](mailto:mehedov.dev@yandex.ru)**
+- 📫 &nbsp;Reach me at **[narofomsk@gmail.com](mailto:narofomsk@gmail.com)**
 - ⚡ &nbsp;Fun fact: I can center a div with my eyes closed!
 
 <br clear="right">
