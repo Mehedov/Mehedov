@@ -1,30 +1,3 @@
-<h1 align="left" id="mehedov-title">👋 Hello there! I'm Nikolay Mehedov</h1>
-
-<p align="left">
-  <a href="https://github.com/Mehedov/Mehedov">
-    <img src="https://komarev.com/ghpvc/?username=Mehedov" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Mehedov?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mehedov?style=flat&logo=github" alt="GitHub followers" />
-  </a>
-  <a href="mailto:narofomsk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-narofomsk%40gmail.com-blue?style=flat&logo=gmail" alt="Email" />
-  </a>
-</p>
-
-<a href="#mehedov-title">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mehedov&theme=github_dark" alt="Mehedov's GitHub stats" align="right" />
-</a>
-
-- 🔭 &nbsp;I build modern frontend applications and explore full-stack development
-- 🌱 &nbsp;I’m growing my skills in **React**, **Angular**, **TypeScript**, and **Express**
-- 🤝 &nbsp;I’m open to collaborating on frontend projects and open-source initiatives
-- 💬 &nbsp;Ask me about frontend development, UX/UI, and modern web technologies
-- 📫 &nbsp;Reach me at **[narofomsk@gmail.com](mailto:narofomsk@gmail.com)**
-- ⚡ &nbsp;Fun fact: I can center a div with my eyes closed!
-
-<br clear="right">
-
 <h2 align="left" id="mehedov-tech">Favorite Tech</h2>
 
 > Tools, frameworks, and languages that I enjoy working with.
@@ -57,14 +30,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left">GitHub Activity</h2>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mehedov&theme=github_dark" alt="GitHub contribution details" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mehedov&theme=github_dark" alt="Top languages by repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mehedov&theme=github_dark" alt="Top languages by commit" />
-</p>
